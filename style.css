@@ -1,0 +1,60 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #fff;
+}
+
+header {
+    background-color: #f8e8f2;
+    padding: 20px;
+    text-align: center;
+    color: #333;
+}
+
+header h1 {
+    color: #d4af37; /* Doré */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+#hero {
+    background-color: #ffeef7;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#services, #about, #contact {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #f0d6e6;
+    border-radius: 10px;
+    background-color: #fff5fa;
+}
+
+footer {
+    text-align: center;
+    background-color: #f8e8f2;
+    padding: 10px;
+    color: #555;
+}
+
+.socials a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #d4af37;
+}
